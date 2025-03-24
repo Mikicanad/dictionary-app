@@ -8,19 +8,18 @@
     box-shadow: 0px 30px 50px rgba(159, 152, 177, 0.08);
     border-radius: 8px;
     background:#882b3b;
-    ;
     margin-top: 10px;
     padding: 40px;
   }
 
-Dictionary .search-input {
+.Dictionary .search-input {
     display: block;
-    height: 64px;
-    color: #666666;
+    height: 66px;
+    color: #b2b2b2;
     font-size: 18px;
     line-height: 21px;
     padding: 22px;
-    border: 1px solid #dddddd;
+    border: 1px solid #997b42;
     border-radius: 6px;
     width: 100%;
 }
@@ -29,7 +28,7 @@ Dictionary .search-input {
     font-weight: 600;
     font-style: normal;
     font-size: 24px;
-    margin-bottom: 20px;
+    margin-bottom: 22px;
     display: block;
     line-height: 29px;
 }

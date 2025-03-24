@@ -12,7 +12,32 @@ export default function App() {
       <main>
         <Dictionary defaultKeyword="sunset"/>
       </main>
-      <footer className="App-footer"><small>Coded by Miki.I</small></footer>
+      <footer className="App-footer">
+      This project was coded by{" "}
+          <a
+            href="https://tranquil-tarsier-93eb74.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Miki.I
+          </a>{" "}
+          and is{" "}
+          <a
+            href="https://github.com/Mikicanad/dictionary-app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            open-sourced on GitHub
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://mikisdictionaryappproject.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            hosted on Netlify
+          </a>
+      </footer>
       </div>
     </div>
   );
