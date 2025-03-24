@@ -15,7 +15,7 @@
 .Dictionary .search-input {
     display: block;
     height: 66px;
-    color: #b2b2b2;
+    color: #4d4d4d;
     font-size: 18px;
     line-height: 21px;
     padding: 22px;
@@ -34,6 +34,9 @@
 }
 
 .Dictionary .hint {
+    color: #b2b2b2;
+    font-size: 11px;
 	margin-top: 15px;
 	display: block;
+    
 }
