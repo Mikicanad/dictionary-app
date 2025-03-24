@@ -1,0 +1,21 @@
+.Meaning h3 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    margin-bottom: 20px;
+    color: white;
+  }
+  
+  .Meaning p {
+    font-size: 14px;
+    line-height: 17px;
+    color: white;
+    margin: 20px 0 10px;
+  }
+  
+  .Meaning em {
+    font-size: 13px;
+    line-height: 15px;
+    color: #997B42;
+  }
+  

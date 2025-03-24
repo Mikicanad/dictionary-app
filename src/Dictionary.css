@@ -3,11 +3,15 @@
     margin: 0 auto;
 }
 
-.Dictionary h1 {
-    text-align: center;
-    padding-bottom: 40px;
-    
-}
+
+.Dictionary section {
+    box-shadow: 0px 30px 50px rgba(159, 152, 177, 0.08);
+    border-radius: 8px;
+    background:#882b3b;
+    ;
+    margin-top: 10px;
+    padding: 40px;
+  }
 
 Dictionary .search-input {
     display: block;
